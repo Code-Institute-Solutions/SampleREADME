@@ -223,6 +223,5 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
-
--   Tutor support at Code Institute for their support.
+-   My Mentor for continuous helpful feedb.
+vaibhav pandey is here let crack it now without any fear against You...
